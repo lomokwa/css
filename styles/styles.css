@@ -1,5 +1,23 @@
-style{
-    .color-red{
-        color:red;
-    }
+body {
+    background-color:rgb(40, 40, 40);
+    background-image: url(https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/12/Gradient_builder_2.jpg?auto=format&q=60&w=1815&h=1200&fit=crop&crop=faces);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 20px;
+}
+
+.main-container {
+    background: 6px round rgba(171, 135, 222, 0.339);
+    background-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.main-container {
+    color: rgb(255, 255, 255);
 }
